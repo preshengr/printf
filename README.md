@@ -1,14 +1,5 @@
 # Project: Printf
 ------------
-### The Printf
-------------
-<img
-  src="https://i.postimg.cc/QtBH3tmV/printf.jpg"
-  alt="The Printf Image"
-  title="What is Printf"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
-------------
 ### Introduction
 ------------
 
