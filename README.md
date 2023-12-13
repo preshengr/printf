@@ -1,4 +1,4 @@
-# Project: Printf
+# The Printf Project
 ------------
 ### Introduction
 ------------
