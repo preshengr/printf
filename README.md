@@ -2,7 +2,11 @@
 ------------
 ### The Printf
 ------------
-![printf](https://github.com/preshengr/printf/assets/106975779/d3117ea5-9abb-471b-8675-613e52929cfb)
+<img
+  src="https://i.postimg.cc/QtBH3tmV/printf.jpg"
+  alt="The Printf Image"
+  title="What is Printf"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ------------
 ### Introduction
